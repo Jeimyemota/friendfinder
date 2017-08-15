@@ -9,7 +9,7 @@ module.exports = function (app){
         var newBestie = {
             name:"",
             photo:"",
-            Diff:Infinity
+            Diff: Infinity
         };
 
 //        code below will take the results and parse it

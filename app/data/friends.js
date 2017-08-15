@@ -47,7 +47,37 @@ var friends = [
     5
             ]
     },
-
+{"name": "Dora",
+    "photo": "http://www.rd.com/wp-content/uploads/sites/2/2016/04/04-traits-ice-cream-chocolate.jpg",
+    "scores": [
+    1,
+    4,
+    5,
+    1,
+    2,
+    1,
+    5,
+    3,
+    3,
+    5
+            ]
+    },
+ {
+    name: "Jordan Biason",
+    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+    scores: [
+      "4",
+      "4",
+      "2",
+      "3",
+      "2",
+      "2",
+      "3",
+      "2",
+      "4",
+      "5"
+            ]
+  }
 ];
 
 module.exports = friends;
